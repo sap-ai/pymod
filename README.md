@@ -1,1 +1,2 @@
 # pymod
+*import python
